@@ -4,7 +4,7 @@ library(lubridate)
 library(caret)
 library(runner)
 
-setwd("C:/Users/serak/Documents/Data_Science/BrasilHackExport/")
+setwd("seu_diretorio_de_trabalho")
 
 # 68 registros duplicados, logo não será possível realizar previsão bem 
 # calibrada para esse subset, por isso a exclusão
