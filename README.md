@@ -2,6 +2,8 @@
 Tratamento de dados, análise exploratória e modelagem para o desafio - equipe GBM
 
 ## Execução do código
+O código está no ramo "master" deste repositório.
+
 #### Requisitos
 R >= 3.6
 RStudio >= 1.0
